@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Than-Duc-Huy
-- 👀 I’m interested in Robotics, especially Legged and Humanoid Robotics
+- 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Electrical Engineering, Mechatronics and Programming needed for Robotics
 - 📫 How to reach me ...
 
